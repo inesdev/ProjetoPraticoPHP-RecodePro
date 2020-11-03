@@ -6,12 +6,13 @@
         <title>Nossas Lojas - Full Stack Eletro</title>
     </head>
     <body>
-        <nav class="menu">
-            <a href="index.html"><img src="./imagens/logo.jpg" width="100px" height="100px" alt="Full Stack Eletro"></a>
-            <a href="produtos.html">Produtos</a>
-            <a href="loja.html">Nossas Lojas</a>
-            <a href="contato.html">Contato</a>
-        </nav>
+        
+    <nav class="menu">
+        <a href="index.php"><img src="./imagens/logo.jpg" width="100px" height="100px" alt="Full Stack Eletro"></a>
+        <a href="produtos.php">Produtos</a>
+        <a href="loja.php">Nossas Lojas</a>
+        <a href="contato.php">Contato</a>
+    </nav>
 
         <h2>
             Nossas Lojas
